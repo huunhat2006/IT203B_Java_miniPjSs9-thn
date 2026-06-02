@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebf29988-90a3-4d02-bf2e-3b29f818387b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/engine/IntersectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/engine/IntersectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/engine/Lane.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/engine/Lane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/engine/SimulationEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/engine/SimulationEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/entity/PriorityVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/entity/PriorityVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/entity/StandardVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/entity/StandardVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/entity/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/entity/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/entity/VehicleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/entity/VehicleType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/exception/CollisionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/exception/CollisionException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/exception/TrafficJamException.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/exception/TrafficJamException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/factory/VehicleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/factory/VehicleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/observer/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/state/GreenState.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/state/GreenState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/state/RedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/state/RedState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/state/TrafficLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/state/TrafficLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/state/TrafficLightState.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/state/TrafficLightState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/state/YellowState.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/pattern/state/YellowState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/util/ConfigLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/util/ConfigLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/util/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/util/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/util/LoggerUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/main/java/com/traffic/util/LoggerUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/test/java/com/traffic/ConcurrencyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/test/java/com/traffic/ConcurrencyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-traffic-simulator/src/test/java/com/traffic/TrafficLightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/smart-traffic-simulator/src/test/java/com/traffic/TrafficLightTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/nhatt/Downloads/IT203B_Java_miniPjSs9" value="3B4lFJTOqeI4EBsoodd4zHnD3Lb" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="111" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3B4lFJTOqeI4EBsoodd4zHnD3Lb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nhatt/Downloads/IT203B_Java_miniPjSs9&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebf29988-90a3-4d02-bf2e-3b29f818387b" name="Changes" comment="" />
+      <created>1773756118180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773756118180</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
